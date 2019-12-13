@@ -1,0 +1,5 @@
+goodbye
+hello
+hi
+howareyou
+password
